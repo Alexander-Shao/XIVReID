@@ -6,7 +6,7 @@ XIVReID(Infrared-Visible Cross-Modal Person Re-Identification with an X Modality
   Diangang Li, Xing Wei, Xiaopeng Hong, Yihong Gong
 # 项目简介
 ## 1. 功能
-跨模态行人重识别
+跨模态行人重识别，实现在RGB图像和近红外(infrared)图像之间的检索
 ## 2. 性能
 在SYSU-MM01和RegDB上达到当前最优性能
 
