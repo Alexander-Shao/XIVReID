@@ -13,11 +13,9 @@ XIVReID(Infrared-Visible Cross-Modal Person Re-Identification with an X Modality
 在RegDB上，rank 1 = 62.21%，mAP = 60.18%；
 ## 3. 评估指标
 `rank1`
-
 `mAP`
 ## 4. 使用数据集
 `SYSU-MM01`
-
 `RegDB`
 # 运行环境与依赖
 类别  | 名称 |  版本 |
