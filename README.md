@@ -9,7 +9,9 @@ XIVReID(Infrared-Visible Cross-Modal Person Re-Identification with an X Modality
 跨模态行人重识别
 ## 2. 性能
 在SYSU-MM01和RegDB上达到当前最优性能
+
 在SYSU-MM01上，rank 1 = 49.92%，mAP = 50.73%；
+
 在RegDB上，rank 1 = 62.21%，mAP = 60.18%；
 ## 3. 评估指标
 `rank1`
